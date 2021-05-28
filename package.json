@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdeitawimostafa/auth-api.git"
+    "url": "git+https://github.com/Tasnimwheebi/auth-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdeitawimostafa/auth-api/issues"
+    "url": "https://github.com/Tasnimwheebi/auth-api/issues"
   },
-  "homepage": "https://github.com/jdeitawimostafa/auth-api#readme",
+  "homepage": "https://github.com/Tasnimwheebi/auth-api#readme",
   "dependencies": {
     "@code-fellows/supergoose": "^1.1.0",
     "base-64": "^1.0.0",
