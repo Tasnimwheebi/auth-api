@@ -3,13 +3,13 @@
 ## LAB - 08
 ## **Deployment Test**
 ## **Author: Tasnim Wheebi**
-[PR LINK]()
+[PR LINK](https://github.com/Tasnimwheebi/auth-api/pull/2 (Links to an external site.) )
 
 
-[Heroku APP]()
+[Heroku APP](https://tasnim-auth-api.herokuapp.com/)
 
 
-[Report Test]()
+[Report Test](https://github.com/Tasnimwheebi/auth-api/actions)
 
 ## **Setup**
 * .env requirements
